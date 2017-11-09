@@ -9,4 +9,4 @@ Python script for sound converter server
 6. Make dir /audio at root of FS by root user.
 7. Share it via samba. Example of part of samba config in samba.conf.
 8. Upload conv.py to /root
-8. Under root by crontab -e cooomand paste crontab file strings.
+8. Under root by crontab -e command paste crontab file strings.
